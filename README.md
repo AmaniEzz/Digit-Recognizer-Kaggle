@@ -1,2 +1,2 @@
 # Digit-Recognizer-Kaggle
-Reached 99.7% Accuracy 
+Reached 99.6% Accuracy 
